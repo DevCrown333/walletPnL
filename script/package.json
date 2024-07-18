@@ -1,0 +1,16 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@moralisweb3/common-evm-utils": "^2.12.0",
+    "axios": "^1.3.0",
+    "bn.js": "^5.2.1",
+    "csv-stringify": "^6.2.3",
+    "debank-open-api": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "moralis": "^2.12.0",
+    "web3": "1.2.2"
+  }
+}
